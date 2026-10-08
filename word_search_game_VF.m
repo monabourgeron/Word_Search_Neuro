@@ -67,7 +67,7 @@
 %      by Anthropic), from the authors' specifications.
 %    - Game idea: adapted from the open-source web game "Word Search"
 %      by Mahathi (https://github.com/Mahathi1601/Word-Search).
-%    - Word list: 119 neuroscience terms proposed by Claude, checked by
+%    - Word list: 119 neuroscience terms proposed by the autors and Claude, checked by
 %      the authors.
 %    - Sound: none. Images: none inside the program. The confetti and the
 %      mice are drawn by the code itself (original cartoon drawings, not taken
@@ -78,10 +78,9 @@
 %    - Tested with GNU Octave 8.4.0, qt graphics toolkit.
 %
 %  AUTHORS AND CONTRIBUTION
-%    - Mona Bourgeron: [describe your contribution]
-%    - [Teammate 2], [Teammate 3], [Teammate 4]: [their contributions]
-%    - Claude (Anthropic): code writing and testing support.
-%
+%    - Philaé BOURDENET : conceptualization of the game, coding and verification
+%    - Mona BOURGERON: conceptualization of the game,coding and verificaiton 
+%   
 %  DATE
 %    2026-10-08  (format: YYYY-MM-DD, year-month-day)
 % =====================================================================
