@@ -69,9 +69,9 @@
 %      by Mahathi (https://github.com/Mahathi1601/Word-Search).
 %    - Word list: 119 neuroscience terms proposed by the autors and Claude, checked by
 %      the authors.
-%    - Sound: none. Images: none inside the program. The confetti and the
+%    - Images: none inside the program. The confetti and the
 %      mice are drawn by the code itself (original cartoon drawings, not taken
-%      from any film). word_search_game_screenshot.png is a screenshot.
+%      from any film). 
 %
 %  VERSIONS
 %    - Code version: VF (final), 1.1 (confetti and mice added)
